@@ -95,6 +95,10 @@ aside button{
   font-size: medium;
 }
 
+aside p a {
+  color: white;
+}
+
 aside button:hover {
   color: #f00;
   background-color: #ccc;
