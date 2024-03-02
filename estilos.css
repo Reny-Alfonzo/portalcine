@@ -87,6 +87,10 @@ main {
 .tarjeta p a {
   text-decoration: none;
   color: yellow;
+  background-color: magenta;
+  border: 3px black;
+  border-radius: 90%;
+  text-align: center;
 }
 
 .tarjeta img {
