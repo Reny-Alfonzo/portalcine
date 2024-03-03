@@ -3,6 +3,12 @@ function subir() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
+
+function apk() {
+    const urlIframe = "index.html";
+    window.location.href = urlIframe;
+}
+
 //------------------------------------------------------------------------
 // peliculas por fecha en carpetas google drive
 function p1943() {
