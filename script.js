@@ -3,30 +3,30 @@ function subir() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
-
+//------------------------------------------------------------------------
 // peliculas por fecha en carpetas google drive
 function p1943() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1XjObrfVr2zpP225rimXaA8fTaoQdburn?usp=sharing";
     window.location.href = urlIframe;
 }
-
+//---------------------------------------------------------------------------
 function p1975() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1eSy9RVNYHDolE1Awu-w8qEfJ07J80t_L?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p1977() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1-6UP7nwVumfw6_l0OOgJq3pwt980-xkJ?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p1982() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1C9PIuLtjv_Rm_b5c8D4ydX6Vj4BJEVzy?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p1995() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1-N6yZAukjMywq3W4xeJ1Q_Cha93AYdW-?usp=sharing";
     window.location.href = urlIframe;
 }
 
@@ -75,52 +75,49 @@ function p2011() {
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2012() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2014() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2017() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2018() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2019() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2020() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2021() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
 
-function p2011() {
+function p2022() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
 }
+// fin de enlaces peliculas fecha google drive
+
 /*
 <p>
-            <br>1943 <a href="https://drive.google.com/drive/folders/1XjObrfVr2zpP225rimXaA8fTaoQdburn?usp=sharing">VER</a>
-            <br>1975 <a href="https://drive.google.com/drive/folders/1eSy9RVNYHDolE1Awu-w8qEfJ07J80t_L?usp=sharing">VER</a>
-            <br>1977 <a href="https://drive.google.com/drive/folders/1-6UP7nwVumfw6_l0OOgJq3pwt980-xkJ?usp=sharing">VER</a>
-            <br>1982 <a href="https://drive.google.com/drive/folders/1C9PIuLtjv_Rm_b5c8D4ydX6Vj4BJEVzy?usp=sharing">VER</a>
-            <br>1995 <a href="https://drive.google.com/drive/folders/1-N6yZAukjMywq3W4xeJ1Q_Cha93AYdW-?usp=sharing">VER</a>
             <br>1997 <a href="https://terabox.com/s/17fV7hwcIssAPaJhH8mlqBg">VER</a>
             <br>1998 <a href="https://drive.google.com/drive/folders/1U-Y50Li-LT5ZhwMhJut4MfXfwx2PPsBf?usp=sharing">VER</a>
             <br>1999 <a href="https://1drv.ms/f/s!AmYdc-e_HoEsq1dEh-j_uvqweUzv?e=epvGAc">VER</a>
