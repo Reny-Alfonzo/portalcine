@@ -84,13 +84,10 @@ main {
   font-style: italic;
 }
 
-.tarjeta p a {
-  text-decoration: none;
-  border: 2px solid #c00;
-  border-radius: 10%;
+.tarjeta button{
   background-color: #006400;
   color: #f5f5dc;
-  text-align: center;
+  font-size: medium;
 }
 
 .tarjeta img {
@@ -102,11 +99,6 @@ aside button{
   background-color: #006400;
   color: #f5f5dc;
   font-size: medium;
-}
-
-aside p a {
-  text-decoration: none;
-  color: #f00;
 }
 
 aside button:hover {
