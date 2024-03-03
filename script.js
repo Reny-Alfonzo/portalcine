@@ -1,5 +1,5 @@
 
 function subir() {
     const urlIframe = "index.html";
-     window.location.href = urlIframe;
- }
+    window.location.href = urlIframe;
+}
