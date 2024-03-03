@@ -46,93 +46,73 @@ function p1999() {
 }
 
 function p2001() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1iUZ9YdqNcfKHiwpMnB4k63MUQJ5vBZEj?usp=drive_link";
     window.location.href = urlIframe;
 }
 
 function p2003() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/18Go6nLRZyKPP4oIPVODnyL9LD6TQGOIK?usp=sharing";
     window.location.href = urlIframe;
 }
 function p2005() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1jdUcjZysX7PPFooZndnce6_jWHI1gVbe?usp=sharing";
     window.location.href = urlIframe;
 }
 function p2006() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1D4X7_Xw-WN0omWTr5k0ldZOHZTUQwZ8x?usp=sharing";
     window.location.href = urlIframe;
 }
 function p2008() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/106zww0SqSsSIf3pmS8EKkeXMrNNZ-lZy?usp=sharing";
     window.location.href = urlIframe;
 }
 function p2009() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/15HB6bJBGKXPRmpuFuz3XVyXTW5bxJ7Fc?usp=drive_link";
     window.location.href = urlIframe;
 }
 function p2011() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1u1QweKCrC4f6ndfIoJsErNW1LAqchUkD?usp=drive_link";
     window.location.href = urlIframe;
 }
 
 function p2012() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1sR1c8sZIB6w_35NE2d2SsUZ4d6loABNI?usp=drive_link";
     window.location.href = urlIframe;
 }
 
 function p2014() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1hakUzaU60c41H0iprqXFbfi-ds5ZmKYh?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p2017() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1X3scb4l2UhsVXAqGogBifK1C9-c2EnqS?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p2018() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/12HoiVW-_n02RxGxFZrHQ-T0WPB6OqkI5?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p2019() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1QMEBj5X0gxNH4VMZlTID-_G0u1WKzDbT?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p2020() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1nfMvsj-7dS7ylun9KmQdp03S497ttNJ_?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p2021() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://terabox.com/s/1EQLCCDex7E0Cj4PyAbEQhw";
     window.location.href = urlIframe;
 }
 
 function p2022() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1lIlNyCCeKz4hPKpja8FEnSsDMP7Ojf1x?usp=sharing";
     window.location.href = urlIframe;
 }
 // fin de enlaces peliculas fecha google drive
 
-/*
-<p>
-            <br>2001 <a href="https://drive.google.com/drive/folders/1iUZ9YdqNcfKHiwpMnB4k63MUQJ5vBZEj?usp=drive_link">VER</a>
-            <br>2003 <a href="https://drive.google.com/drive/folders/18Go6nLRZyKPP4oIPVODnyL9LD6TQGOIK?usp=sharing">VER</a>
-            <br>2005 <a href="https://drive.google.com/drive/folders/1jdUcjZysX7PPFooZndnce6_jWHI1gVbe?usp=sharing">VER</a>
-            <br>2006 <a href="https://drive.google.com/drive/folders/1D4X7_Xw-WN0omWTr5k0ldZOHZTUQwZ8x?usp=sharing">VER</a>
-            <br>2008 <a href="https://drive.google.com/drive/folders/106zww0SqSsSIf3pmS8EKkeXMrNNZ-lZy?usp=sharing">VER</a>
-            <br>2009 <a href="https://drive.google.com/drive/folders/15HB6bJBGKXPRmpuFuz3XVyXTW5bxJ7Fc?usp=drive_link">VER</a>
-            <br>2011 <a href="https://drive.google.com/drive/folders/1u1QweKCrC4f6ndfIoJsErNW1LAqchUkD?usp=drive_link">VER</a>
-            <br>2012 <a href="https://drive.google.com/drive/folders/1sR1c8sZIB6w_35NE2d2SsUZ4d6loABNI?usp=drive_link">VER</a>
-            <br>2014 <a href="https://drive.google.com/drive/folders/1hakUzaU60c41H0iprqXFbfi-ds5ZmKYh?usp=sharing">VER</a>
-            <br>2017 <a href="https://drive.google.com/drive/folders/1X3scb4l2UhsVXAqGogBifK1C9-c2EnqS?usp=sharing">VER</a>
-            <br>2018 <a href="https://drive.google.com/drive/folders/12HoiVW-_n02RxGxFZrHQ-T0WPB6OqkI5?usp=sharing">VER</a>
-            <br>2019 <a href="https://drive.google.com/drive/folders/1QMEBj5X0gxNH4VMZlTID-_G0u1WKzDbT?usp=sharing">VER</a>
-            <br>2020 <a href="https://drive.google.com/drive/folders/1nfMvsj-7dS7ylun9KmQdp03S497ttNJ_?usp=sharing">VER</a>
-            <br>2021 <a href="https://terabox.com/s/1EQLCCDex7E0Cj4PyAbEQhw">VER</a>
-            <br>2022 <a href="https://drive.google.com/drive/folders/1lIlNyCCeKz4hPKpja8FEnSsDMP7Ojf1x?usp=sharing">VER</a>
-          </p>
-
-*/
