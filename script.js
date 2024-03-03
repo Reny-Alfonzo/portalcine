@@ -31,17 +31,17 @@ function p1995() {
 }
 
 function p1997() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://terabox.com/s/17fV7hwcIssAPaJhH8mlqBg";
     window.location.href = urlIframe;
 }
 
 function p1998() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://drive.google.com/drive/folders/1U-Y50Li-LT5ZhwMhJut4MfXfwx2PPsBf?usp=sharing";
     window.location.href = urlIframe;
 }
 
 function p1999() {
-    const urlIframe = "index.html";
+    const urlIframe = "https://1drv.ms/f/s!AmYdc-e_HoEsq1dEh-j_uvqweUzv?e=epvGAc";
     window.location.href = urlIframe;
 }
 
@@ -118,9 +118,6 @@ function p2022() {
 
 /*
 <p>
-            <br>1997 <a href="https://terabox.com/s/17fV7hwcIssAPaJhH8mlqBg">VER</a>
-            <br>1998 <a href="https://drive.google.com/drive/folders/1U-Y50Li-LT5ZhwMhJut4MfXfwx2PPsBf?usp=sharing">VER</a>
-            <br>1999 <a href="https://1drv.ms/f/s!AmYdc-e_HoEsq1dEh-j_uvqweUzv?e=epvGAc">VER</a>
             <br>2001 <a href="https://drive.google.com/drive/folders/1iUZ9YdqNcfKHiwpMnB4k63MUQJ5vBZEj?usp=drive_link">VER</a>
             <br>2003 <a href="https://drive.google.com/drive/folders/18Go6nLRZyKPP4oIPVODnyL9LD6TQGOIK?usp=sharing">VER</a>
             <br>2005 <a href="https://drive.google.com/drive/folders/1jdUcjZysX7PPFooZndnce6_jWHI1gVbe?usp=sharing">VER</a>
