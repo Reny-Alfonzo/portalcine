@@ -84,11 +84,17 @@ main {
   font-style: italic;
 }
 
-.tarjeta button{
+.tarjeta button {
   background-color: #006400;
   color: #f5f5dc;
   font-size: medium;
 }
+
+.tarjeta button:hover {
+  color: black;
+  background-color: #ccc;
+}
+
 
 .tarjeta img {
   max-width: 100%;
@@ -102,7 +108,7 @@ aside button{
 }
 
 aside button:hover {
-  color: #f00;
+  color: black;
   background-color: #ccc;
 }
 
