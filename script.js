@@ -102,7 +102,7 @@ function p2018() {
 }
 
 function p2019() {
-    const urlIframe = "https://drive.google.com/drive/folders/1QMEBj5X0gxNH4VMZlTID-_G0u1WKzDbT?usp=sharing";
+    const urlIframe = "https://drive.google.com/drive/folders/1QMEBj5X0gxNH4VMZlTID-_G0u1WKzDbT";
     window.location.href = urlIframe;
 }
 
