@@ -119,6 +119,17 @@ footer {
   padding: 1em;
 }
 
+footer a {
+  background-color: #006400;
+  color: #f5f5dc;
+  font-size: medium;
+}
+
+footer button:hover {
+  color: black;
+  background-color: #ccc;
+}
+
 @media screen and (max-width: 600px) {
   .grid-tarjetas {
       grid-template-columns: 1fr;
