@@ -127,3 +127,7 @@ function p2022() {
 }
 // fin de enlaces peliculas fecha google drive
 
+function destacadas() {
+    const urlIframe = "destacadas.html";
+    window.location.href = urlIframe;
+}
