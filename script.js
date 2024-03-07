@@ -8,7 +8,10 @@ function craw() {
     const urlIframe = "https://iframe.mediadelivery.net/embed/212047/a0bc32c8-5aa3-433b-be02-c4b9237a9fee"
     window.location.href = urlIframe;
 }
-
+function venomcl() {
+    const urlIframe = "https://iframe.mediadelivery.net/play/212047/561a8c55-2b82-4fd4-a23d-6241cd417eb1"
+    window.location.href = urlIframe;
+}
 function subir() {
     const urlIframe = "index.html";
     window.location.href = urlIframe;
