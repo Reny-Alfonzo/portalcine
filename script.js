@@ -1,4 +1,8 @@
 
+function anaconda() {
+    const urlIframe = "https://terabox.com/s/1rbTCLNFW0BbBn9nswFVt6w"
+    window.location.href = urlIframe;
+}
 function titanic() {
     const urlIframe = "https://iframe.mediadelivery.net/play/212047/b05742a5-d36e-4b58-88b4-deae159589d3"
     window.location.href = urlIframe;
