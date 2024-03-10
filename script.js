@@ -1,4 +1,8 @@
 
+function uncharted() {
+    const urlIframe = "https://drive.google.com/file/d/1hGQoxEphgo0m4C4bApnG1czYv70OAQ6T/view?usp=drive_link"
+    window.location.href = urlIframe;
+}
 function anaconda() {
     const urlIframe = "https://terabox.com/s/1rbTCLNFW0BbBn9nswFVt6w"
     window.location.href = urlIframe;
