@@ -8,7 +8,7 @@ function anaconda() {
     window.location.href = urlIframe;
 }
 function titanic() {
-    const urlIframe = "https://iframe.mediadelivery.net/play/212047/b05742a5-d36e-4b58-88b4-deae159589d3"
+    const urlIframe = "https://mega.nz/file/xHgWUS5Y#XpsQY-R71KAZAhH-ZXAQqWBQcvOzKyANnXyYv3liGAc"
     window.location.href = urlIframe;
 }
 
