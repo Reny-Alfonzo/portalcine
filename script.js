@@ -23,11 +23,13 @@ function venomcl() {
     const urlIframe = "https://terabox.com/s/1LtwihOj8ecHEWfm7qbcZ4Q"
     window.location.href = urlIframe;
 }
-function subir() {
-    const urlIframe = "index.html";
+function ShangChi() {
+    const urlIframe = "https://terabox.com/s/1UsXfnZlP1zXdwXFLsbliuw"
     window.location.href = urlIframe;
 }
 
+
+// fin peliculas-----------------
 function apk() {
     const urlIframe = "https://drive.google.com/file/d/1-tFnWl0jduudNS51KPQwy0x9gKMpxfAu/view?usp=sharing";
     window.location.href = urlIframe;
@@ -152,5 +154,9 @@ function destacadas() {
 }
 function nextpage2() {
     const urlIframe = "pageTwo.html";
+    window.location.href = urlIframe;
+}
+function previuspage2() {
+    const urlIframe = "index.html";
     window.location.href = urlIframe;
 }

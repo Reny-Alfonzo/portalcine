@@ -100,14 +100,16 @@ main {
   max-width: 100%;
   height: auto;
 }
-
-main section .next{
+main section .controlsPage{
+  margin-top: 5px;
+}
+main section .controlsPage button{
   background-color: #006400;
   color: #f5f5dc;
   font-size: medium;
 }
 
-main section .next:hover{
+main section .controlsPage button:hover{
   color: black;
   background-color: #ccc;
 }
