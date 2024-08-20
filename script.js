@@ -151,6 +151,6 @@ function destacadas() {
     window.location.href = urlIframe;
 }
 function nextpage2() {
-    const urlIframe = "index.html";
+    const urlIframe = "pageTwo.html";
     window.location.href = urlIframe;
 }

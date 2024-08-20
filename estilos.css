@@ -101,6 +101,17 @@ main {
   height: auto;
 }
 
+main section .next{
+  background-color: #006400;
+  color: #f5f5dc;
+  font-size: medium;
+}
+
+main section .next:hover{
+  color: black;
+  background-color: #ccc;
+}
+
 aside button{
   background-color: #006400;
   color: #f5f5dc;
