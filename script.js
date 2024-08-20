@@ -11,7 +11,10 @@ function titanic() {
     const urlIframe = "https://mega.nz/file/xHgWUS5Y#XpsQY-R71KAZAhH-ZXAQqWBQcvOzKyANnXyYv3liGAc"
     window.location.href = urlIframe;
 }
-
+function gladiator() {
+    const urlIframe = "https://mega.nz/file/8ORBEDDY#waNI02WZ7eX67Qb-KurswO4YTfrt-3X499bT-or0SKo"
+    window.location.href = urlIframe;
+}
 function craw() {
     const urlIframe = "https://iframe.mediadelivery.net/embed/212047/a0bc32c8-5aa3-433b-be02-c4b9237a9fee"
     window.location.href = urlIframe;
