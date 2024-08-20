@@ -20,7 +20,7 @@ function craw() {
     window.location.href = urlIframe;
 }
 function venomcl() {
-    const urlIframe = "https://iframe.mediadelivery.net/play/212047/561a8c55-2b82-4fd4-a23d-6241cd417eb1"
+    const urlIframe = "https://terabox.com/s/1LtwihOj8ecHEWfm7qbcZ4Q"
     window.location.href = urlIframe;
 }
 function subir() {
