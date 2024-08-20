@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Cine</title>
+    <link rel="icon" type="image/png" href="card.png">
+    <link rel="stylesheet" href="estilos.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <header>
+      <h1>Portal Cine</h1>
+    </header>
+    <nav class="bar-nav">
+      <ul>
+        <li><a href="#freemovie">Películas</a></li>
+        <li><a href="#destacadas">Destacadas</a></li>
+      </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Recién Agregadas</h2>
+
+            <div class="grid-tarjetas">
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/86/91/41/19870073.jpg" alt="Titanic">
+                <h4>Titanic</h4>
+                <p>
+                  Un amor imposible en un barco que se hunde.
+                  Una historia épica de supervivencia y tragedia. <br>
+                  <br>Fecha de estreno 1 de noviembre de 1997 | 3h 14min <br>
+                  Dirigida por James Cameron <br>
+                  Con Leonardo DiCaprio, Kate Winslet, B <br>
+                  <br> <center><button onclick="titanic()">VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/70/92/02/20149073.jpg" alt="Gladiator">
+                <h4>Gladiator</h4>
+                <p>
+                  Un general traicionado busca venganza en la arena del Coliseo. 
+                  Una historia de honor, redención y libertad. <br>
+                  <br>2h 35min | Acción, Aventura, Histórico <br>
+                  Dirigida por Ridley Scott <br>
+                  Reparto Russell Crowe, Joaquin Phoenix, Connie Nielsen <br>
+                  <br> <center><button onclick="gladiator()">VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/pictures/21/08/31/16/41/4145554.jpg" alt="Venom">
+                <h4>
+                  Venom 2
+                </h4>
+                <p>
+                  Dos monstruos se enfrentan en una batalla épica por el control de la ciudad. Acción trepidante y efectos especiales
+                  increíbles. <br>
+                   <br>15 de octubre de 2021 en cines | 1h 38min | Acción, Fantasía <br>
+                  Dirigida por Andy Serkis | Guion Kelly Marcel <br>
+                  Reparto Tom Hardy, Woody Harrelson, Michelle Williams <br>
+                  Título original Venom: Let There Be Carnage <br>
+                  <br> <center><button onclick="venomcl()">VER</button></center>
+                </p>
+
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/19/83/20134023.jpg" alt="Anaconda">
+                <h4>Anaconda</h4>
+                <p>
+                  Una lucha por la supervivencia contra una serpiente gigante en la selva amazónica. Terror y adrenalina en una aventura
+                  llena de peligros. <br>
+                  <br>4 de julio de 1997 en cines | 1h 30min | Acción, Aventura, Suspense <br>
+                  Dirigida por Luis Llosa | Guion Hans Bauer, Jim Cash <br>
+                  Reparto Jon Voight, Jennifer Lopez, Ice Cube <br>
+                  <br> <center><button onclick="anaconda()">VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/pictures/18/01/09/10/10/3484018.jpg" alt="la forma del agua">
+                <h4>La forma del agua</h4>
+                <p>
+                  Un amor imposible entre una mujer muda y una criatura anfibia. 
+                  Un cuento de hadas oscuro en la América de la Guerra Fría.
+                  ¿Te atreves a sumergirte en esta historia mágica y conmovedora? <br>
+                  <br>2h 03min | Drama, Fantasía, Romántico <br>
+                  Dirigida por Guillermo del Toro <br>
+                  Reparto Sally Hawkins, Michael Shannon, Richard Jenkins <br>
+                  <br> <center><button>VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/pictures/23/12/13/12/59/0317379.jpg" alt="Madame web">
+                <h4>Madame Web</h4>
+                <p>
+                  Inspirada en el personaje de Marvel, el filme narra la historia de Cassandra Webb, una mujer que nació ciega y sufría de
+                  una extraña condición neurológica. Sin embargo, esto acaba teniendo un efecto secundario y desarrolla poderosas
+                  habilidades psíquicas que usa para convertirse en médium. <br>
+                  <br>14 de febrero de 2024 | 1h 57min | Acción, Fantasía <br>
+                  Dirigida por S.J. Clarkson
+                  <br>Reparto Dakota Johnson, Sydney Sweeney, Isabela Merced <br>
+                  <br> <center><button>VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img2.acsta.net/c_310_420/pictures/22/01/13/15/49/5165456.jpg" alt="Uncharted">
+                <h4>Uncharted</h4>
+                <p>
+                  Un joven cazador de tesoros se une a un veterano en una peligrosa búsqueda por un tesoro perdido hace siglos.
+                  ¿Descubrirán el tesoro o se perderán en la aventura? <br>
+                  <br>11 de febrero de 2022 en cines | 1h 56min | Acción, Aventura <br>
+                  Dirigida por Ruben Fleischer | Guion Rafe Judkins, Art Marcum <br>
+                  Reparto Tom Holland, Mark Wahlberg, Sophia Ali <br>
+                  <br> <center><button onclick="uncharted()">VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img3.acsta.net/c_310_420/pictures/24/02/27/16/28/3250275.jpg" alt="gozilla y Kong">
+                <h4>Godzilla y Kong</h4>
+                <p>
+                  Tras su último y explosivo enfrentamiento, el todopoderoso Kong y el temible Godzilla, dos de los monstruos que ahora
+                  dominan el mundo, se reencuentran para un feroz combate contra una colosal pero desconocida amenaza que se oculta en el
+                  planeta. <br>
+                  <br>27 de marzo de 2024 | 1h 55min | Acción, Fantasía, Ciencia ficción <br>
+                  Dirigida por Adam Wingard <br>
+                  Reparto Rebecca Hall, Brian Tyree Henry, Kaylee Hottle <br>
+                  <br> <center><button>VER</button></center>
+                </p>
+              </div>
+
+              <div class="tarjeta">
+                <img src="https://es.web.img2.acsta.net/c_310_420/pictures/23/12/20/17/49/3528056.jpg" alt="Kung fu panda 4">
+                <h4>Kung Fu Panda 4</h4>
+                <p>
+                  Cuarta entrega de la franquicia Kung Fu Panda en la que Po, el panda experto en artes marciales, deberá proteger el
+                  Valle de la Paz de las garras de una malvada y poderosa hechicera, La Camaleona. En esta nueva aventura conocerá a Zhen,
+                  una astuta y rápida ladrona, cuyas habilidades resultarán de gran ayuda. <br>
+                  <br>8 de marzo de 2024 | 1h 33min | Aventura, Animación, Comedia <br>
+                  Dirigida por Mike Mitchell (V) <br>
+                  Reparto Jack Black, Viola Davis, Awkwafina <br>
+                  <br> <center><button>VER</button></center>
+                </p>
+              </div>
+              <div><button>Página Siguiente</button></div>
+
+            </div>
+            
+        </section>
+          
+        <aside>
+          <h3 id="freemovie">Todas las Películas por Fecha</h3>
+          <button onclick="p1943()">1943</button> <button onclick="p1975()">1975</button> <button onclick="p1977()">1977</button>
+          <button onclick="p1982()">1982</button> <button onclick="p1995()">1995</button> <button onclick="p1997()">1997</button>
+          <button onclick="p1998()">1998</button> <button onclick="p1999()">1999</button> <button onclick="p2001()">2001</button>
+          <button onclick="p2003()">2003</button> <button onclick="p2005()">2005</button> <button onclick="p2006()">2006</button>
+          <button onclick="p2008()">2008</button> <button onclick="p2009()">2009</button> <button onclick="p2011()">2011</button>
+          <button onclick="p2012()">2012</button> <button onclick="p2014()">2014</button> <button onclick="p2017()">2017</button>
+          <button onclick="p2018()">2018</button> <button onclick="p2019()">2019</button> <button onclick="p2020()">2020</button>
+          <button onclick="p2021()">2021</button> <button onclick="p2022()">2022</button>
+          
+
+          <h3 id="destacadas">Destacadas</h3>
+          <button onclick="destacadas()">Ver Peliculas Destacadas</button>
+          <h3>Descargar aplicación móvil</h3>
+          <button onclick="apk()">Descargar APK</button>
+
+          <h5>
+            Si tienes problemas con la aplicación visita nuestra Web:<br>
+            reny-alfonzo.github.io/portalcine
+          </h5>
+          
+        </aside>
+    </main>
+    <footer>
+      <button onclick="subir()">Ir arriba</button>
+      <p>Copyright &copy; 2024 Portal Cine - RenyDEV - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>

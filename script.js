@@ -150,3 +150,7 @@ function destacadas() {
     const urlIframe = "destacadas.html";
     window.location.href = urlIframe;
 }
+function nextpage2() {
+    const urlIframe = "index.html";
+    window.location.href = urlIframe;
+}
