@@ -24,7 +24,7 @@ function venomcl() {
     window.location.href = urlIframe;
 }
 function ShangChi() {
-    const urlIframe = "https://terabox.com/s/1UsXfnZlP1zXdwXFLsbliuw"
+    const urlIframe = "https://mega.nz/file/5KolDDBB#pVao47BInCYOD2MB_wS0MnntE4mEXSfv7R3FWjs3HQA"
     window.location.href = urlIframe;
 }
 
