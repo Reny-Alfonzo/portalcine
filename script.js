@@ -20,7 +20,7 @@ function craw() {
     window.location.href = urlIframe;
 }
 function venomcl() {
-    const urlIframe = "https://terabox.com/s/1LtwihOj8ecHEWfm7qbcZ4Q"
+    const urlIframe = "https://mega.nz/file/5SQFVIAD#4rcDUKjSNdrnJ0oX7FJn52DvCsKMYWlebps8ZAeZVsM"
     window.location.href = urlIframe;
 }
 function ShangChi() {
