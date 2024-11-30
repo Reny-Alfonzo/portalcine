@@ -27,6 +27,10 @@ function ShangChi() {
     const urlIframe = "https://mega.nz/file/5KolDDBB#pVao47BInCYOD2MB_wS0MnntE4mEXSfv7R3FWjs3HQA"
     window.location.href = urlIframe;
 }
+function Nowayhome() {
+    const urlIframe = "https://drive.google.com/file/d/1t9zAn22HlSmdDt1R0rzGAiYmlmx-rRqg/view?usp=drive_link"
+    window.location.href = urlIframe
+}
 
 
 // fin peliculas-----------------
