@@ -31,6 +31,10 @@ function Nowayhome() {
     const urlIframe = "https://drive.google.com/file/d/1t9zAn22HlSmdDt1R0rzGAiYmlmx-rRqg/view?usp=drive_link"
     window.location.href = urlIframe
 }
+function GozillaxKong() {
+    const urlIframe = "https://mega.nz/file/lPoxUZAB#WtVzKEj_Zyub-rEBqYdKBSApfU28NDS-MpDe4M01I-I"
+    window.location.href = urlIframe
+}
 
 
 // fin peliculas-----------------
