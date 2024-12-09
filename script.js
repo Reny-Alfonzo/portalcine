@@ -39,6 +39,10 @@ function Fallvertigo() {
     const urlIframe = "https://drive.google.com/file/d/1zqziLY-VFN0SleEwc9_XFQrqYhJdwtui/view?usp=drive_link"
     window.location.href = urlIframe
 }
+function Rubias() {
+    const urlIframe = "https://mega.nz/file/kPxDAKbK#iJmtGqpRNbbFZayKvM5yqc-_dDuBYYHIqA2LSzY_vJ8"
+    window.location.href = urlIframe
+}
 
 
 // fin peliculas-----------------
