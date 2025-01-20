@@ -43,7 +43,10 @@ function Rubias() {
     const urlIframe = "https://mega.nz/file/kPxDAKbK#iJmtGqpRNbbFZayKvM5yqc-_dDuBYYHIqA2LSzY_vJ8"
     window.location.href = urlIframe
 }
-
+function Aquaman() {
+    const urlIframe = "https://mega.nz/file/ZPBXHYTZ#FnoX3x4jyXrfnjLp9hzW88GuoNVjSTewluTKL9ecShE"
+    window.location.href = urlIframe
+}
 
 // fin peliculas-----------------
 function apk() {
